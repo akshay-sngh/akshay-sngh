@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Singh, a graduate student in Carnegie Mellon University with an SDE experience of 3 years. Welcome to my GitHub. It's still in its nascient stages and I would love suggesetions!
-- 👀 I’m interested in fullstack development with a preference for back-end, mostly Java and Python but any language will do.
+- 👀 I’m interested in fullstack development with a preference for back-end, mostly Java and Python but any language works!
 - 🌱 I’m currently pursuing my master's in Information Systems Management from CMU.
 - 💞️ I’m looking to collaborate on machine learning projects or any idea where I can be of use
 - 📫 Feel free to reach out to me, I'd be happy to contribute wherever I can!
